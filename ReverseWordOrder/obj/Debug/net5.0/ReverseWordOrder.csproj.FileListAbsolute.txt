@@ -1,0 +1,16 @@
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.csprojAssemblyReference.cache
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.AssemblyInfoInputs.cache
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.AssemblyInfo.cs
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\bin\Debug\net5.0\ReverseWordOrder.exe
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\bin\Debug\net5.0\ReverseWordOrder.deps.json
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\bin\Debug\net5.0\ReverseWordOrder.runtimeconfig.json
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\bin\Debug\net5.0\ReverseWordOrder.runtimeconfig.dev.json
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\bin\Debug\net5.0\ReverseWordOrder.dll
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\bin\Debug\net5.0\ref\ReverseWordOrder.dll
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\bin\Debug\net5.0\ReverseWordOrder.pdb
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.dll
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ref\ReverseWordOrder.dll
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.pdb
+C:\Users\taylo\OneDrive\Documents\InterviewPrep\ReverseWordOrder\obj\Debug\net5.0\ReverseWordOrder.genruntimeconfig.cache
