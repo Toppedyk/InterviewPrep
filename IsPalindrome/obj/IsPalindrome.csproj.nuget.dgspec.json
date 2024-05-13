@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj": {}
+    "c:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj": {
+    "c:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj",
+        "projectUniqueName": "c:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj",
         "projectName": "IsPalindrome",
-        "projectPath": "C:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj",
+        "projectPath": "c:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\IsPalindrome.csproj",
         "packagesPath": "C:\\Users\\taylo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\obj\\",
+        "outputPath": "c:\\Users\\taylo\\OneDrive\\Documents\\InterviewPrep\\IsPalindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taylo\\AppData\\Roaming\\NuGet\\NuGet.Config"
