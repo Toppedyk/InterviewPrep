@@ -11,21 +11,29 @@
 // }
 
 // using Recursion
-console.log(0);
-console.log(1);
-var count = 2;
-function fibonocci(num, num2) {
-  if (count <= 19) {
-    newFibo = num + num2;
-    console.log(newFibo);
-    num = num2;
-    num2 = newFibo;
-    count += 1;
-    fibonocci(num, num2);
-  } else {
-    return;
-  }
-}
-fibonocci(0, 1);
+// console.log(0);
+// console.log(1);
+// var count = 2;
+// function fibonocci(num, num2) {
+//   if (count <= 19) {
+//     newFibo = num + num2;
+//     console.log(newFibo);
+//     num = num2;
+//     num2 = newFibo;
+//     count += 1;
+//     fibonocci(num, num2);
+//   } else {
+//     return;
+//   }
+// }
+// fibonocci(0, 1);
 
 // Finding The nth Fibonacci Number Using Recursion
+function fibonocci(number) {
+  if (number <= 1) {
+    return number;
+  } else {
+    return fibonocci(number - 1) + fibonocci(number - 2);
+  }
+}
+console.log(fibonocci(19));
