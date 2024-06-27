@@ -19,3 +19,8 @@ Recursion A programming technique where a function calls itself.
 Divide and Conquer A method of solving complex problems by breaking them into smaller, more manageable sub-problems, solving the sub-problems, and combining the solutions. Recursion is often used when using this method in an algorithm.
 
 Brute Force A simple and straight forward way an algorithm can work by simply trying all possible solutions and then choosing the best one.
+
+In computer science, Big O notation is used more specifically to find the worst case time complexity for an algorithm.
+
+Big O notation uses a capital letter O with parenthesis
+O(), and inside the parenthesis there is an expression that indicates the algorithm runtime. Runtime is usually expressed using n, which is the number of values in the data set the algorithm is working on.
