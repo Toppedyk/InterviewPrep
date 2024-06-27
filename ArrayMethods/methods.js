@@ -16,3 +16,18 @@ fruits.push("Grape");
 console.log(fruits);
 fruits.pop();
 console.log(fruits);
+
+// Remove first array element
+fruits.shift();
+console.log(fruits);
+
+// Add element to front of array
+fruits.unshift("Banana");
+console.log(fruits);
+
+// Merge two arrays
+const myGirls = ["Cecilie", "Lone"];
+const myBoys = ["Emil", "Tobias", "Linus"];
+
+const myChildren = myGirls.concat(myBoys);
+console.log(myChildren);
