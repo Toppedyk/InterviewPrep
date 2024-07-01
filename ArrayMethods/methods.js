@@ -31,3 +31,7 @@ const myBoys = ["Emil", "Tobias", "Linus"];
 
 const myChildren = myGirls.concat(myBoys);
 console.log(myChildren);
+
+// splice an array,   second parameter can be used to remove a fixed number of elements
+fruits.splice(2, 0, "Lemon", "Kiwi");
+console.log(fruits);
