@@ -35,3 +35,10 @@ console.log(myChildren);
 // splice an array,   second parameter can be used to remove a fixed number of elements
 fruits.splice(2, 0, "Lemon", "Kiwi");
 console.log(fruits);
+
+// sort alphabetically
+fruits.sort();
+console.log(fruits);
+
+fruits.reverse();
+console.log(fruits);
