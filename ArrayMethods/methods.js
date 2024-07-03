@@ -42,3 +42,19 @@ console.log(fruits);
 
 fruits.reverse();
 console.log(fruits);
+
+// sort uses strings, so we must use compare function with numbers
+const points = [40, 100, 1, 5, 25, 10];
+points.sort(function (a, b) {
+  return a - b;
+});
+console.log(points);
+
+// Mapping an array using a different function
+const numbers1 = [45, 4, 9, 16, 25];
+const numbers2 = numbers1.map(doubleFunction);
+
+function doubleFunction(value) {
+  return value * 2;
+}
+console.log(numbers2);
