@@ -19,7 +19,7 @@ Config console user guide: https://docs.infor.com/lmrk/2023.x/en-us/lmrkolh/lmrk
 
 A filter string will pull down the entire data set and then apply the defined filters, resulting in more computinging power and I/O
 
-Using the LPL transaction string it will apply them before pulling the data making it more computational friendly
+Using the LPL transaction string it will filter the data set on the query of data from the database
 
 <!-- FIXED WIDTH FILES VS. DELIMETED -->
 
