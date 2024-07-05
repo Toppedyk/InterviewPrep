@@ -15,6 +15,12 @@ ctrl+shift+click = loads component info details of component you're configuring
 
 Config console user guide: https://docs.infor.com/lmrk/2023.x/en-us/lmrkolh/lmrklpltg/inforlandmarkconfigurationconsolelpl.pdf
 
+<!-- Transaction string vs filter string -->
+
+A filter string will pull down the entire data set and then apply the defined filters, resulting in more computinging power and I/O
+
+Using the LPL transaction string it will apply them before pulling the data making it more computational friendly
+
 <!-- FIXED WIDTH FILES VS. DELIMETED -->
 
 Fixed format means that the fields in your file have a fixed length. For instance first column is always 10 characters, second is 3 characters and third is 20 characters.
